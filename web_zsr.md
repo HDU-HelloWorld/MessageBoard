@@ -3,4 +3,5 @@
 ```JavaScript
 console.log("原神怎么你了");
 console.log("我是芙卡洛斯的*！");
+console.log("原来，你也玩原神！！")
 ```
